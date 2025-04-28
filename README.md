@@ -26,7 +26,7 @@
 - **GeeksforGeeks**: [GFG Profile](https://www.geeksforgeeks.org/user/nyxsky/)   
 
 ### 🔗 Connect with Me  
-📧 Email: [sumit.kumar@adypu.edu.in](mailto:sumit.kumar@adypu.edu.in)  
+📧 Email: [nyxsky404@gmail.com](mailto:nyxsky404@gmail.com) 
 
 ⚡ **Fun Fact**: I love exploring different **animes** & solving **logical puzzles**!  
 
