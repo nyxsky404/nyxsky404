@@ -2,7 +2,7 @@
 My name is **Sumit Kumar**, a **full-stack web developer** who enjoys building real-world applications, understanding how systems work behind the scenes, and growing through hands-on problem solving.
 
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -11,7 +11,6 @@ My name is **Sumit Kumar**, a **full-stack web developer** who enjoys building r
 - 🧠 Focused on **clean code, APIs, and practical engineering**
 - 🌱 Learning by building, breaking, and fixing things
 
----
 
 ## 🚀 What I’m currently working on
 
@@ -20,9 +19,8 @@ My name is **Sumit Kumar**, a **full-stack web developer** who enjoys building r
 - Practicing **Data Structures & problem-solving**
 - Exploring scalable and maintainable application architecture
 
----
 
-### 🛠️ I code with
+## 🛠️ I code with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
@@ -41,15 +39,10 @@ My name is **Sumit Kumar**, a **full-stack web developer** who enjoys building r
 </div>
 
 
-
----
-
-
 ## 🎉 Fun Fact
 
 I love exploring **anime** — not just for entertainment, but because it inspires my **mindset**, **discipline**, and **approach to learning and self-improvement** ✨
 
----
 
 ## 📫 How to reach me
 
