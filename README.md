@@ -4,23 +4,14 @@ My name is **Sumit Kumar**, a **full-stack web developer** who enjoys building r
 
 
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 B.Tech Computer Science @ **Newton School of Technology (2024–2028)**
-- 💻 Full-stack developer with experience in **frontend, backend, and databases**
-- 🧠 Focused on **clean code, APIs, and practical engineering**
-- 🌱 Learning by building, breaking, and fixing things
+- B.Tech Computer Science @ **Newton School of Technology (2024–2028)**
+- Full-stack developer with experience in **frontend, backend, and databases**
+- Focused on **clean code, APIs, and practical engineering**
+- Learning by building, breaking, and fixing things
 
-
-## 🚀 What I’m currently working on
-
-- Building and refining **full-stack web applications**
-- Strengthening **backend fundamentals** (REST APIs, databases, authentication)
-- Practicing **Data Structures & problem-solving**
-- Exploring scalable and maintainable application architecture
-
-
-## 🛠️ I code with
+## I code with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
@@ -39,12 +30,7 @@ My name is **Sumit Kumar**, a **full-stack web developer** who enjoys building r
 </div>
 
 
-## 🎉 Fun Fact
-
-I love exploring **anime** — not just for entertainment, but because it inspires my **mindset**, **discipline**, and **approach to learning and self-improvement** ✨
-
-
-## 📫 How to reach me
+## How to reach me
 
 - 📧 Email: **sumit.kumar@adypu.edu.in**
 - 🔗 LinkedIn: [nyxsky404](https://www.linkedin.com/in/nyxsky404/)
