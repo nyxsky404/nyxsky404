@@ -6,7 +6,6 @@ My name is **Sumit Kumar**, a **full-stack web developer** who enjoys building r
 
 ## About Me
 
-- B.Tech Computer Science @ **Newton School of Technology (2024–2028)**
 - Full-stack developer with experience in **frontend, backend, and databases**
 - Focused on **clean code, APIs, and practical engineering**
 - Learning by building, breaking, and fixing things
