@@ -64,7 +64,7 @@ const sumit = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nyxsky404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxsky404&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyxsky404&theme=tokyonight&hide_border=true&_=1" height="170" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
